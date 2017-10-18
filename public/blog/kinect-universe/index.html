@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="map[]" />
+    <meta name="description" content="Describe your website">
+    <link rel="shortcut icon" type="image/x-icon" href="http://timnosov.com/img/fav.ico">
+    <title>Exploring the Universe with Gesture Based UI</title>
+    <meta name="generator" content="Hugo 0.17" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="http://timnosov.com/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-108361973-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      
+      <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="http://timnosov.com/"><i class="fa fa-home"></i> Home</a>
+    </div>
+    <div id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+        <li><a href="/blog/">BLOG</a></li>
+        
+        <li><a href="/projects/">PROJECTS</a></li>
+        
+        <li><a href="/timnosovresume.pdf">RESUME</a></li>
+        
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+      
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <srong><h1><a href="http://timnosov.com/blog/kinect-universe/">Exploring the Universe with Gesture Based UI</a></h1></srong>
+          </h3>
+        </div>
+        <div class="blog-title">
+          <h4>
+          October 17, 2017
+            &nbsp;&nbsp;
+            
+          </h4>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="blogpost">
+              
+
+<p>Controlling a computer with gestures is a mind-blowing and perspective-shifting experience. The idea existed since forever ago (i.e Minority Report) and attempts to bring it to masses (Kinect) have been made but gesture control is still far from being ubiquitous, I, for example, have never tried it, until a few days ago.</p>
+
+<p>WorldWide Telescope is an open-source application which provides an interactive way to explore the universe. <a href="https://en.wikipedia.org/wiki/Jonathan_Fay">Jonathan Fay</a> has build a Kinect interface to navigate Worldwide Telescope:</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/1-tMp4WkQjA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0"></iframe>
+ </div>
+
+
+<p><a href="http://lab212.org/">Lab212</a> have built an art installation using Worldwide Telescope and Kinect to simulate the experience of swinging through space on a swing:</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/5Kj_AGNJsL4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0"></iframe>
+ </div>
+
+
+<p>These experiments inspired us to recreate them for the purpose of education and outreach for the <a href="http://sfusat.com/">SFU Satellite Design Team</a>. Harrison Handley was the mind behind the idea and the driving force for the project.</p>
+
+<p>We have decided to substitute Worldwide Telescope with <a href="http://stars.chromeexperiments.com/">100,000 Stars Chrome Experiment</a> developed by Google’s <a href="https://www.html5rocks.com/en/tutorials/casestudies/100000stars/">Data Arts Team</a>. 100,000 Stars is a fantastic visualization of the Milky Way Galaxy and we chose it over Worldwide Telescope, due to the fact that it was easier to navigate, simpler to understand and simpler to control with Kinect. (Harrison is still very keen on implementing a Worldwide telescope version though.)</p>
+
+<p>Harrison implemented a Kinect interface and came up with a control scheme: hands held together — zooming in, hands wider than elbows — zooming out, making a fist and moving it — to simulating a mouse click and drag.</p>
+
+<p>We demoed this at <a href="http://www.sciencerendezvous.ca/">Science Rendezvous</a> — Canada’s biggest science fair as a part of the SFU Satellite Design Team’s booth. Our visitors were mostly elementary school children and their parents and also some university-level students. The result was incredible:</p>
+
+<ul>
+<li>Kids and adults alike were mind-blown by the idea of waving hands to control a computer</li>
+<li>100,000 Star Experiment with its stunning graphics and a simple control scheme proved to be an excellent way to explore the universe, be fascinated by its size and complexity and be curious to learn more</li>
+<li>Kinect with its cool stick-figure visualization of bodies was a fantastic learning tool — kids and adults were curious about sensors and algorithms and coding languages</li>
+</ul>
+
+<p>What was a true validation of the value of the demo was that many bugs in our demo didn’t drive anyone away or made anyone bored, on the contrary, whenever an issue arose (for example sudden poor gesture recognition), kids wanted to find a way to solve it!</p>
+
+<p>This project turned out to be a fantastic way to unleash creativity and foster curiosity and it was an excellent science, art and technology demonstration.</p>
+
+<h2 id="resourses">Resourses</h2>
+
+<p><a href="http://stuffin.space/">Another simple web-based demo to explore space using Kinect</a></p>
+
+<p><a href="https://github.com/WorldWideTelescope">Worldwide Telescope’s Github</a></p>
+
+<p><a href="http://depthjs.media.mit.edu/">JS library for interfacing with Kinect</a></p>
+
+              <hr>
+              <div class="related-posts">
+                <h5>Related Posts</h5>
+                
+              </div>
+            </div>
+          </div>
+          <hr>
+        
+        </div>
+      </div>
+      
+    </div>
+
+    
+    
+    
+  </body>
+</html>

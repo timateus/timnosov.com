@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://timnosov.com/</loc>
+    <lastmod>2017-10-17T23:29:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timnosov.com/blog/kinect-universe/</loc>
+    <lastmod>2017-10-17T23:29:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timnosov.com/blog/indoor-positioning/</loc>
+    <lastmod>2017-10-17T23:15:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timnosov.com/blog/satellite-fea/</loc>
+    <lastmod>2017-10-17T23:14:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timnosov.com/blog/optimization/</loc>
+    <lastmod>2017-10-17T23:13:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timnosov.com/contact/</loc>
+    <lastmod>2017-03-09T13:23:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timnosov.com/about/</loc>
+    <lastmod>2017-03-09T13:19:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timnosov.com/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timnosov.com/blog/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
