@@ -9,6 +9,6 @@ title = "Machine Learning, Sensor Fusion and IoT for Tracking Customers in Groce
 
 +++
 
-At LOCUS we are bringing online-inspired customer analytics to brick and mortar stores using Internet of Things and Artifiial Intelligence.
+At LOCUS we are bringing online-inspired customer analytics to brick and mortar stores using Internet of Things and Artificial Intelligence.
 
-When a customer browses through an on-line store, every single click is recorder and analyzed. This data is then used to imrpove customer experience and drive sales. In a physical store the only available data is the receipt and points cards. How the customer arrived at the purchase is a mystery.   
+When a customer browses through an on-line store, every single click is recorder and analyzed. This data is then used to improve customer experience and drive sales. In a physical store the only available data is the receipt and points cards. How the customer arrived at the purchase is a mystery.   

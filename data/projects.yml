@@ -1,9 +1,9 @@
 name: Projects
 source:
   - icon: fa fa-globe
-    description: LOCUS, An Indoor Positioning System for retail analytics
+    description: LOCUS. An Indoor Positioning System for retail analytics
     url: http://locusanalytics.ca/
 
   - icon: fa fa-globe
-    description: SFU Satellite, what's more challenging than building a satellite?
+    description: SFU Satellite. what's more challenging, exciing and rewarding than building a satellite?
     url: http://sfusat.com/

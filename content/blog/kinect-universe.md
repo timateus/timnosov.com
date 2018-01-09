@@ -37,11 +37,11 @@ What was a true validation of the value of the demo was that many bugs in our de
 
 This project turned out to be a fantastic way to unleash creativity and foster curiosity and it was an excellent science, art and technology demonstration.
 
-## Resourses
+## Resources
 
-[Another simple web-based demo to explore space using Kinect](http://stuffin.space/)
+* [Another simple web-based demo to explore space using Kinect](http://stuffin.space/)
 
-[Worldwide Telescope’s Github](https://github.com/WorldWideTelescope)
+* [Worldwide Telescope’s Github](https://github.com/WorldWideTelescope)
 
-[JS library for interfacing with Kinect](http://depthjs.media.mit.edu/)
+* [JS library for interfacing with Kinect](http://depthjs.media.mit.edu/)
 
